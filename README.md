@@ -2,6 +2,9 @@
 
 ## Project setup
 ```
+vue create psalms
+npm install vue bootstrap boostrap-vue
+npm install babel-polyfill
 npm install
 ```
 
